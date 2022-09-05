@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=ahKevinXy/ahKevinXy)
+
 
 
 Here are some ideas to get you started:
