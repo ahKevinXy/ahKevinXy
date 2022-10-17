@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahKevinXy&show_icons=true&locale=en&layout=compact" alt="divedylan" /></p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ahKevinXy/ahKevinXy)
-<a href="https://github.com/ahKevinXy">
+
   <img align="right" src="https://metrics.lecoq.io/ahKevinXy?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
 </a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahKevinXy&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahKevinXy&theme=default)
+
+![](https://visitor-badge.glitch.me/badge?page_id=ahKevinXy/ahKevinXy)
+<a href="https://github.com/ahKevinXy">
