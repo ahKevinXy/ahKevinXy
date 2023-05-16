@@ -31,5 +31,3 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahKevinXy&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahKevinXy&theme=vue)
 
-![](https://visitor-badge.glitch.me/badge?page_id=ahKevinXy/ahKevinXy)
-<a href="https://github.com/ahKevinXy">
