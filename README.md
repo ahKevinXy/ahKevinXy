@@ -5,7 +5,7 @@
     <img alt="Shows ahKevinXy's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=ahKevinXy&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
 </a>
-
+![](https://komarev.com/ghpvc/?username=ahKevinXy&color=green)
 
 ### Hi there 👋
 
