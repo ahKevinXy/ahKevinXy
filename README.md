@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently freelancer
 - 🌱 I’m currently learning Go,Rust,TypeScript 
-- 👯 I’m looking to collaborate on 
+- 👯 Professional help people build academic blogs, personal blogs 
 - 🤔 I’m looking for help with write bug
 - 💬 Ask me about 
-- 📫 How to reach me
+- 📫 How to reach me email 
 - 😄 Pronouns
 - ⚡ Fun fact 
 
