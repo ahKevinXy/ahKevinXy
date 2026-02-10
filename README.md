@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 Professional help people build academic blogs, personal blogs 
 - 🤔 I’m looking for help with write bug
 - 💬 Ask me about 
-- 📫 How to reach me [emal](mailto:ah_kevin_xy@126.com)
+- 📫 How to reach me [email](mailto:ah_kevin_xy@126.com)
 - 😄 Pronouns
 - ⚡ Fun fact 
 
